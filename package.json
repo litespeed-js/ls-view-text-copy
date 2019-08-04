@@ -1,9 +1,9 @@
 {
     "name": "ls-view-text-copy",
-    "version": "v1.0.1",
+    "version": "v1.0.0",
     "private": false,
     "main": "src/copy.js",
-    "description": "Litespeed.js view component that adds a word copyer to your input elements.",
+    "description": "Litespeed.js view component that adds a copy button to your element text content or input element value.",
     "homepage": "https://github.com/litespeed-js/ls-view-text-copy",
     "bugs": "https://github.com/litespeed-js/ls-view-text-copy/issues",
     "license": "MIT",

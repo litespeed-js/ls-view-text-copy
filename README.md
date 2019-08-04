@@ -27,7 +27,7 @@ Install with CDN:
 ### Example
 
 ```html
-<input type="text" value="Hello World!" maxlength="20" data-ls-text-copy />
+<input type="text" value="Hello World!" data-ls-text-copy />
 ```
 
 ## Contributing
